@@ -27,6 +27,4 @@ I'm in my third, and hopefully final, year of an MLIS from the iSchool, and also
  ## Tools/methods
 I'm excited to learn markdown, because it seems **much** easier than HTML!
 
-
-## test!
  
